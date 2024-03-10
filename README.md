@@ -12,7 +12,7 @@ This is a simple Python script to check for broken links on a website. It utiliz
 Before running the script, make sure you have Python 3 installed on your system. You can install the required libraries using pip:
 
 ```bash
-pip install requests beautifulsoup4 colorama
+pip3 install requests beautifulsoup4 colorama
 ```
 
 ### Running the Script
